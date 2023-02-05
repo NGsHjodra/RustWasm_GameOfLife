@@ -1,0 +1,12 @@
+/target
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+wasm-pack.log
+www/dist/
+www/node_modules/
+www/package-lock.json
+gmon.out
+after.txt
+before.txt
